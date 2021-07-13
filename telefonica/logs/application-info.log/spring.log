@@ -1,0 +1,12 @@
+2021-07-13 08:57:18.116  INFO 18724 --- [main] c.e.t.c.CalculateControllerTest          : Starting CalculateControllerTest using Java 16.0.1 on INCHCMLP08475 with PID 18724 (started by CR00757345 in D:\Project\telefonica)
+2021-07-13 08:57:18.139  INFO 18724 --- [main] c.e.t.c.CalculateControllerTest          : No active profile set, falling back to default profiles: default
+2021-07-13 08:57:20.227  INFO 18724 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2021-07-13 08:57:20.227  INFO 18724 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2021-07-13 08:57:20.230  INFO 18724 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2021-07-13 08:57:20.297  INFO 18724 --- [main] c.e.t.c.CalculateControllerTest          : Started CalculateControllerTest in 2.846 seconds (JVM running for 6.674)
+2021-07-13 08:58:20.870  INFO 21156 --- [main] c.e.t.c.CalculateControllerTest          : Starting CalculateControllerTest using Java 16.0.1 on INCHCMLP08475 with PID 21156 (started by CR00757345 in D:\Project\telefonica)
+2021-07-13 08:58:20.876  INFO 21156 --- [main] c.e.t.c.CalculateControllerTest          : No active profile set, falling back to default profiles: default
+2021-07-13 08:58:22.765  INFO 21156 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2021-07-13 08:58:22.766  INFO 21156 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2021-07-13 08:58:22.768  INFO 21156 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2021-07-13 08:58:22.827  INFO 21156 --- [main] c.e.t.c.CalculateControllerTest          : Started CalculateControllerTest in 2.547 seconds (JVM running for 6.048)
